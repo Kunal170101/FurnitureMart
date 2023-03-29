@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/blue_background.xml" value="0.1635" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_texture_left.xml" value="0.1635" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_texture_right.xml" value="0.1635" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/white_background.xml" value="0.1635" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/activity_main.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_account_options.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_introduction.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_login.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_register.xml" value="0.175" />
       </map>
     </option>
   </component>
