@@ -7,9 +7,9 @@ import com.example.ecommerceapplication.R
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialog
 
-fun Fragment.setUpBottomSheetDialog(
+fun Fragment.setupBottomSheetDialog(
     onSendClick: (String) -> Unit
-) {
+){
     val dialog = BottomSheetDialog(requireContext(),R.style.DialogStyle)
     val view = layoutInflater.inflate(R.layout.reset_password_dialog,null)
     dialog.setContentView(view)
@@ -21,7 +21,8 @@ fun Fragment.setUpBottomSheetDialog(
     val buttonCancel = view.findViewById<Button>(R.id.buttonCancelResetPassword)
 
     buttonSend.setOnClickListener {
-        onSendClick(edEmail.text.toString().trim())
+        val email = edEmail.text.toString().trim()
+        onSendClick(email)
         dialog.dismiss()
     }
 
