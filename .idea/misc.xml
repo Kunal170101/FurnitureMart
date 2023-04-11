@@ -13,6 +13,7 @@
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_home.xml" value="0.167" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_kleine_shape.xml" value="0.167" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.167" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_picked.xml" value="0.167" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_search.xml" value="0.167" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_texture_left.xml" value="0.1635" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_texture_right.xml" value="0.1635" />
@@ -22,6 +23,7 @@
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/activity_main.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/activity_shopping.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/best_deals_rv_item.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/color_rv_item.xml" value="0.1" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_account_options.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_base_category.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_cart.xml" value="0.175" />
@@ -35,7 +37,9 @@
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_search.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/product_rv_item.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/reset_password_dialog.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/size_rv_item.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/special_rv_item.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/viewpager_image_item.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.175" />
       </map>
     </option>
