@@ -15,7 +15,11 @@
     <fragment
         android:id="@+id/profileFragment"
         android:name="com.example.ecommerceapplication.fragments.shopping.ProfileFragment"
-        android:label="ProfileFragment" />
+        android:label="ProfileFragment" >
+        <action
+            android:id="@+id/action_profileFragment_to_addressFragment"
+            app:destination="@id/addressFragment" />
+    </fragment>
     <fragment
         android:id="@+id/cartFragment"
         android:name="com.example.ecommerceapplication.fragments.shopping.CartFragment"
@@ -40,4 +44,8 @@
             android:name="product"
             app:argType="com.example.ecommerceapplication.data.Product" />
     </fragment>
+    <fragment
+        android:id="@+id/addressFragment"
+        android:name="com.example.ecommerceapplication.fragments.shopping.AddressFragment"
+        android:label="AddressFragment" />
 </navigation>
