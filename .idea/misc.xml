@@ -11,6 +11,7 @@
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/facebook_login.xml" value="0.167" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_add.xml" value="0.168" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_cart.xml" value="0.167" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_edit.xml" value="0.168" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_empty_box.xml" value="0.168" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_empty_box_texture.xml" value="0.168" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_favorite.xml" value="0.167" />
@@ -25,6 +26,7 @@
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_texture_left.xml" value="0.1635" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/ic_texture_right.xml" value="0.1635" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/search_box_background.xml" value="0.167" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/settings_items_background.xml" value="0.168" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/total_box_background.xml" value="0.168" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/unselected_button_background.xml" value="0.168" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/drawable/white_background.xml" value="0.1635" />
@@ -49,6 +51,7 @@
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_profile.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_register.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_search.xml" value="0.175" />
+        <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/fragment_user_account.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/product_rv_item.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/reset_password_dialog.xml" value="0.175" />
         <entry key="..\:/Users/kunal/ECommerceApplication/app/src/main/res/layout/size_rv_item.xml" value="0.175" />

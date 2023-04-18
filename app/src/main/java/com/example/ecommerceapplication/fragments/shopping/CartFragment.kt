@@ -84,7 +84,8 @@ class CartFragment: Fragment(R.layout.fragment_cart) {
                         dialog.dismiss()
                     }
                 }
-                alertDialog.create().show()
+                alertDialog.create()
+                alertDialog.show()
             }
         }
 
