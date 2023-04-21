@@ -2,7 +2,7 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/shopping_graph"
-    app:startDestination="@id/homeFragment">
+    app:startDestination="@id/ordersFragment">
 
     <fragment
         android:id="@+id/homeFragment"
@@ -72,5 +72,17 @@
     <fragment
         android:id="@+id/ordersFragment"
         android:name="com.example.ecommerceapplication.fragments.settings.AllOrdersFragment"
-        android:label="OrdersFragment" />
+        android:label="OrdersFragment" >
+        <action
+            android:id="@+id/action_ordersFragment_to_orderDetailsFragment"
+            app:destination="@id/orderDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/orderDetailsFragment"
+        android:name="com.example.ecommerceapplication.fragments.settings.OrderDetailsFragment"
+        android:label="OrderDetailsFragment" >
+        <argument
+            android:name="order"
+            app:argType="com.example.ecommerceapplication.data.order.Order" />
+    </fragment>
 </navigation>
